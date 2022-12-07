@@ -1,0 +1,102 @@
+ body {
+     background-color: #555;
+     padding: 0;
+     margin: 0;
+     overflow: hidden;
+     box-sizing: border-box;
+    background-color: transparent;
+ }
+
+ .color1 {
+     background-color: #37495f;
+ }
+
+ .color2 {
+     background-color: #65c271;
+ }
+
+ .color3 {
+     background-color: #da604b;
+ }
+
+ .color4 {
+     background-color: #c66026;
+ }
+
+ .color5 {
+     background-color: #9166b5;
+ }
+
+ .coloredDot {
+     border: 2px solid #fff;
+     border-radius: 100%;
+     width: 10px;
+     height: 10px;
+     display: block;
+     position: fixed;
+ }
+
+ #dotsDiv {
+     position: absolute;
+     left: 98%;
+     top: 40%;
+     margin-top: 10px;
+ }
+
+ .bg {
+     width: 100%;
+     height: 800px;
+ }
+
+ .btn {
+     background-color: inherit;
+     border: 0.5px solid white;
+     position: absolute;
+     top: 50%;
+     left: 35%;
+     width: 30%;
+     height: 14%;
+     font-size: 2em;
+     transform: translate(0, -50%);
+     padding: 0;
+ }
+
+ .left {
+     width: 35%;
+     height: 40%;
+     float: left;
+     padding: 2%;
+     color: white;
+     position: absolute;
+ }
+
+ .right {
+     width: 35%;
+     height: 40%;
+     float: right;
+     padding: 2%;
+     top: 30%;
+     margin-right: 10%;
+ }
+
+ .right img {
+     width: 500px;
+     height: 350px;
+     margin-top: 26%;
+     background-color: transparent;
+     border: none;
+     loadi
+ }
+
+
+ .left p {
+     position: absolute;
+     top: 95%;
+     left: 30%;
+     padding-left: 30px;
+ }
+
+ .left input {
+     width: 60%;
+     top: 80%;
+ }

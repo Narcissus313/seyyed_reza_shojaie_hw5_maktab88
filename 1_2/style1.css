@@ -1,0 +1,25 @@
+
+.black{
+    background-color: #000000;
+        position: relative;
+        width: 600px;
+        height: 600px;
+}
+
+.yellow {
+    width: 370px;
+    height: 370px;
+    background-color: #ffff00;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.red {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    position: absolute;
+    top: 30px;
+    right: 0;
+}
